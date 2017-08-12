@@ -1,0 +1,21 @@
+* PRE-REQUISITES *
+
+Python with following modules: numpy, scipy, matplotlib and sklearn
+
+* INSTALLATION *
+
+1. Goto python.org release page and download any version of python. Installer is named: Windows v86 64 MSI Instalker (Latest release recommended)
+2. Run the installer and remember the path where python is being installed.
+3. Copy the local.bat file in this folder and paste it into the python folder. Double click it and a command prompt will pop up.
+4. on the command propmt, type the following commands one after the another: 
+	1. pip install numpy
+	2. pip install scipy
+	3. pip install matplotlib
+	4. pip install sklearn
+5. If there are scipy installation errors, click on this link: "https://sourceforge.net/projects/scipy/files/scipy/0.16.1/"  and download and install the version of scipy that corresponds for your python version.
+6. If you face sklearn installation errors download and install it from this link: "https://sourceforge.net/projects/scikit-learn/files/?source=navbar"
+
+7. Setup the environment for python.
+8. Run the svr.py script from your command prompt.
+
+
